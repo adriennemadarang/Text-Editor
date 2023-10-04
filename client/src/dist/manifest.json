@@ -1,0 +1,24 @@
+{
+  "name": "Text Editor",
+  "short_name": "Jate",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "Creates notes without connecting to the internet",
+  "background_color": "#225ca3",
+  "theme_color": "#225ca3",
+  "iconts": [
+    {
+      "src": "/Users/adriennemadarang/code/Text-Editor/client/src/src/images/logo.png",
+      "sizes": [
+        96,
+        128,
+        192,
+        256,
+        384,
+        512
+      ],
+      "destination": "assets/icons"
+    }
+  ]
+}
