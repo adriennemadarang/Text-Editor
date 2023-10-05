@@ -8,3 +8,5 @@ AS A developer<br>
 I WANT to create notes or code snippets with or without an internet connection<br>
 SO THAT I can reliably retrieve them for later use<br>
 
+## Questions
+If you would like to contribute, please contact me. 
