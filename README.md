@@ -1,7 +1,7 @@
 # Text-Editor
 
 ## Description
-This is a text editor where the user can create notes with or without an internet connection. 
+This is a text editor where the user can create notes with or without an internet connection. <br>
 https://warm-island-32928-cb3c5262d6db.herokuapp.com/
 
 ## User Story
